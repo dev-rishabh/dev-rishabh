@@ -1,50 +1,44 @@
 # Hey there, I’m Rishabh 👋  
-### *AI, Data Science & Coffee — all driving forces of my daily runtime.*
+### *AI, Data Science & Coffee - all driving forces of my daily runtime.*
 
 ---
 
 ## About Me  
-I’m a **Data Scientist at [Innovaccer Analytics](https://innovaccer.com/)**, where I’ve been working for over **2+ years** on the intersection of **AI and US Healthcare** — turning data into insights and ideas into intelligent systems.  
+I’m a **Data Scientist at [Innovaccer Analytics](https://innovaccer.com/)**, working at the intersection of **AI, healthcare, and data-driven automation** for the past **2+ years**.  
 
-My current work revolves around:  
+My work revolves around:
  - Predictive Analytics for healthcare outcomes
- - Prior Authorization Automation using AI pipelines
- - Generative AI & LLM use-cases in clinical workflows
- - Disease Modelling and healthcare forecasting  
+ - Prior Authorization Automation through AI pipelines
+ - Generative AI use-cases for clinical workflows
+ - Disease Modelling & Population Health Insights  
 
-Before that, I was **Principal Data Scientist at IMACS**, leading AI solutions for scalable data-driven decision-making.  
+Previously, I served as **Principal Data Scientist at IMACS**, driving research and innovation in AI-powered analytics.  
 
-I love building intelligent systems that make an actual difference — from **automated workflows** to **AI-powered disease models**. I’m also a big believer in the art of simple dashboards, clean code, and models that explain themselves (most days).  
-
-Fun fact: My coffee is as unstructured as my early data sources ☕📊  
+I build systems that make sense of data *before caffeine does*. ☕  
+Passionate about AI for good, automation that scales, and models that (mostly) behave as expected.
 
 ---
 
-## AI & Data Stack  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2302569B.svg?style=flat&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
-![MLOps](https://img.shields.io/badge/MLOps-%2300C4CC.svg?style=flat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## AI & Data Science Stack  
+
+<div align="center">
+  
+| **Languages** | **AI / ML Frameworks** | **Cloud & MLOps** |
+|:--:|:--:|:--:|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) <br> ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![MLOps](https://img.shields.io/badge/MLOps-%2300C4CC.svg?style=for-the-badge&logoColor=white) |
+| **Data & Visualization** | **Generative AI / LLMs** | **Databases & Tools** |
+| ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-%2302569B.svg?style=for-the-badge&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) <br> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
+
+</div>
+
+*(Powered by Pandas, patience, and a few late-night insights.)*
 
 ---
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-dev-070)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rishabh-ml)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rishabdev_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-dev-070)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rishabh-ml)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rishabdev_)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/yVjya4gf)
 
 ---
@@ -61,8 +55,14 @@ Fun fact: My coffee is as unstructured as my early data sources ☕📊
 
 ---
 
-### Random Dev Meme :) 
-<img src="https://rm.up.railway.app/" width="512px"/>
+### Developer Mood of the Day  
+Instead of a meme (which often breaks), here’s something cleaner and dynamic:
+
+![GitHub Skyline](https://github.com/dev-rishabh/github-skyline/raw/main/screenshot.png)  
+*(Visualizing commits in 3D — because data should always look cool.)*  
+
+Or, if you prefer a fun widget:  
+![](https://readme-jokes.vercel.app/api?theme=gradient&hideBorder)
 
 ---
 
