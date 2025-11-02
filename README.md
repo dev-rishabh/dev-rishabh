@@ -56,13 +56,11 @@ Passionate about AI for good, automation that scales, and models that (mostly) b
 ---
 
 ### Developer Mood of the Day  
-Instead of a meme (which often breaks), here’s something cleaner and dynamic:
 
-![GitHub Skyline](https://github.com/dev-rishabh/github-skyline/raw/main/screenshot.png)  
-*(Visualizing commits in 3D — because data should always look cool.)*  
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vCenter=true&width=900&lines=Rishabh+Dev+—+AI+%7C+ML+%7C+Generative+AI+%7C+Healthcare+Analytics;Predictive+Analytics+%7C+Prior+Auth+Automation+%7C+Disease+Modelling;Pastel+blue%2Fteal+vibes+%2B+clean+ML+pipelines)](https://git.io/typing-svg)
 
 Or, if you prefer a fun widget:  
-![](https://readme-jokes.vercel.app/api?theme=gradient&hideBorder)
+![Jokes](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23ffffff00&textColor=%235aa6c9)
 
 ---
 
